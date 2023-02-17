@@ -1,5 +1,5 @@
 # NotepadTabbed
-This is a program designed to run on Windows 10, as well as Windows 11. It has similar features to the notepad found on Windows 11.
+This is a text-editor program designed to run on Windows 10, as well as Windows 11. It has similar features to the notepad found on Windows 11.
 
 ## How to setup
 - Download the zip file and extract the contents to a directory of your choice.
